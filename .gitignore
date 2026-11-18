@@ -1,0 +1,10 @@
+# Salidas que se regeneran al correr los scripts
+datos_limpios/
+resultados/
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+# Jupyter
+.ipynb_checkpoints/

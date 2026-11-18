@@ -1,0 +1,13 @@
+sitio_id,coral_vivo_pct,macroalgas_pct,herbivoros_g100m2,comerciales_g100m2,ISA,categoria_ISA,zona,lat,lon
+S09,4,3,5,5,4.25,Muy bueno,Protección,15.88539,-83.10753
+S10,4,3,5,5,4.25,Muy bueno,Protección,15.88586,-83.39354
+S07,3,3,4,5,3.75,Bueno,Protección,15.87946,-83.0356
+S12,3,3,5,4,3.75,Bueno,Protección,15.81534,-83.22967
+S08,3,3,3,5,3.5,Bueno,Protección,15.80432,-83.32985
+S11,3,3,3,4,3.25,Regular,Protección,15.85814,-83.16555
+S04,3,2,3,4,3,Regular,Uso pesquero,15.8892,-83.34397
+S05,3,2,3,4,3,Regular,Uso pesquero,15.9363,-83.39783
+S02,3,2,3,3,2.75,Regular,Uso pesquero,16.01213,-83.3258
+S06,3,2,3,3,2.75,Regular,Uso pesquero,15.8003,-83.1593
+S01,3,2,3,2,2.5,Pobre,Uso pesquero,15.85778,-83.23505
+S03,2,1,2,4,2.25,Pobre,Uso pesquero,15.83846,-83.23573

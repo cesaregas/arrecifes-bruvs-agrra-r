@@ -1,0 +1,13 @@
+sitio_id,colonias,colonias_por_10m,diam_medio_cm,mort_antigua_media,mort_reciente_media,blanqueamiento_pct,enfermedad_pct,zona
+S01,42,8.4,31.7,25.6,6.1,23.8,14.3,Uso pesquero
+S02,40,8,31.6,24.3,2.9,10,17.5,Uso pesquero
+S03,53,10.6,29.8,24,5.8,32.1,9.4,Uso pesquero
+S04,43,8.6,32.7,23.5,6,30.2,14,Uso pesquero
+S05,46,9.2,34.8,21.8,4.1,13,10.9,Uso pesquero
+S06,37,7.4,28.9,25.1,4.1,29.7,8.1,Uso pesquero
+S07,42,8.4,36,20.7,4.1,31,7.1,Protección
+S08,55,11,27.7,25.8,4,21.8,3.6,Protección
+S09,56,11.2,31.2,26.2,4.4,30.4,17.9,Protección
+S10,38,7.6,34,20.7,4,34.2,10.5,Protección
+S11,52,10.4,36.7,25.5,4.3,30.8,1.9,Protección
+S12,41,8.2,30.7,18.9,5.9,29.3,12.2,Protección

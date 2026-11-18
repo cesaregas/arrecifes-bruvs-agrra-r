@@ -1,0 +1,73 @@
+sitio_id,categoria,cobertura_media,ee,zona,habitat
+S01,ACC,7.6,1.2884098726725124,Uso pesquero,Arrecife frontal
+S01,ARE,14.4,1.5033296378372907,Uso pesquero,Arrecife frontal
+S01,CV,13.6,1.2489995996796794,Uso pesquero,Arrecife frontal
+S01,ESP,5.4,0.9273618495495702,Uso pesquero,Arrecife frontal
+S01,MAC,17.6,1.0770329614269007,Uso pesquero,Arrecife frontal
+S01,TUR,41.4,1.6911534525287764,Uso pesquero,Arrecife frontal
+S02,ACC,8.4,1.208304597359457,Uso pesquero,Arrecife de parche
+S02,ARE,15.6,1.98997487421324,Uso pesquero,Arrecife de parche
+S02,CV,11.6,1.2884098726725124,Uso pesquero,Arrecife de parche
+S02,ESP,7.8,0.8602325267042626,Uso pesquero,Arrecife de parche
+S02,MAC,21,0.5477225575051661,Uso pesquero,Arrecife de parche
+S02,TUR,35.6,2.1118712081942874,Uso pesquero,Arrecife de parche
+S03,ACC,5.8,0.6633249580710799,Uso pesquero,Arrecife frontal
+S03,ARE,15.4,2.521904042583698,Uso pesquero,Arrecife frontal
+S03,CV,9.6,1.8601075237738274,Uso pesquero,Arrecife frontal
+S03,ESP,4.6,0.9273618495495702,Uso pesquero,Arrecife frontal
+S03,MAC,25.2,0.7999999999999999,Uso pesquero,Arrecife frontal
+S03,TUR,39.4,1.2884098726725124,Uso pesquero,Arrecife frontal
+S04,ACC,8.4,0.8717797887081347,Uso pesquero,Arrecife de parche
+S04,ARE,14.8,1.42828568570857,Uso pesquero,Arrecife de parche
+S04,CV,12.8,1.0677078252031311,Uso pesquero,Arrecife de parche
+S04,ESP,6.8,0.7999999999999999,Uso pesquero,Arrecife de parche
+S04,MAC,18.4,2.657066051117284,Uso pesquero,Arrecife de parche
+S04,TUR,38.8,2.353720459187964,Uso pesquero,Arrecife de parche
+S05,ACC,9,1.4142135623730951,Uso pesquero,Arrecife frontal
+S05,ARE,14.2,1.9339079605813716,Uso pesquero,Arrecife frontal
+S05,CV,11.2,1.1575836902790224,Uso pesquero,Arrecife frontal
+S05,ESP,6,0.5477225575051661,Uso pesquero,Arrecife frontal
+S05,MAC,22.2,1.7435595774162693,Uso pesquero,Arrecife frontal
+S05,TUR,37.4,1.5033296378372907,Uso pesquero,Arrecife frontal
+S06,ACC,8.6,1.7776388834631178,Uso pesquero,Arrecife de parche
+S06,ARE,15.4,1.0770329614269007,Uso pesquero,Arrecife de parche
+S06,CV,10.2,1.1135528725660042,Uso pesquero,Arrecife de parche
+S06,ESP,8.4,0.7483314773547882,Uso pesquero,Arrecife de parche
+S06,MAC,21.4,1.4,Uso pesquero,Arrecife de parche
+S06,TUR,36,2.32379000772445,Uso pesquero,Arrecife de parche
+S07,ACC,10.2,1.3928388277184118,Protección,Arrecife frontal
+S07,ARE,17.6,2.3790754506740637,Protección,Arrecife frontal
+S07,CV,18.2,0.7999999999999999,Protección,Arrecife frontal
+S07,ESP,7.8,0.7348469228349535,Protección,Arrecife frontal
+S07,MAC,8.6,1.5684387141358123,Protección,Arrecife frontal
+S07,TUR,37.6,1.7204650534085253,Protección,Arrecife frontal
+S08,ACC,7.8,0.8602325267042626,Protección,Arrecife de parche
+S08,ARE,17.8,2.537715508089904,Protección,Arrecife de parche
+S08,CV,18.6,1.5362291495737215,Protección,Arrecife de parche
+S08,ESP,8,0.8944271909999159,Protección,Arrecife de parche
+S08,MAC,8.8,0.9695359714832658,Protección,Arrecife de parche
+S08,TUR,39,1.7320508075688772,Protección,Arrecife de parche
+S09,ACC,10,0.9486832980505137,Protección,Arrecife frontal
+S09,ARE,15.6,1.2884098726725124,Protección,Arrecife frontal
+S09,CV,20.4,2.2271057451320084,Protección,Arrecife frontal
+S09,ESP,7.8,1.019803902718557,Protección,Arrecife frontal
+S09,MAC,11,2.0976176963403033,Protección,Arrecife frontal
+S09,TUR,35.2,1.8275666882497066,Protección,Arrecife frontal
+S10,ACC,9.8,2.33238075793812,Protección,Arrecife de parche
+S10,ARE,15.8,1.5937377450509227,Protección,Arrecife de parche
+S10,CV,20,2.5099800796022267,Protección,Arrecife de parche
+S10,ESP,10.6,2.4,Protección,Arrecife de parche
+S10,MAC,11.4,2.1587033144922905,Protección,Arrecife de parche
+S10,TUR,32.4,1.8601075237738274,Protección,Arrecife de parche
+S11,ACC,9.2,1.3564659966250534,Protección,Arrecife frontal
+S11,ARE,17.4,1.6309506430300091,Protección,Arrecife frontal
+S11,CV,17.4,1.469693845669907,Protección,Arrecife frontal
+S11,ESP,8.8,1.1575836902790224,Protección,Arrecife frontal
+S11,MAC,10.6,0.24494897427831777,Protección,Arrecife frontal
+S11,TUR,36.6,0.9797958971132711,Protección,Arrecife frontal
+S12,ACC,10.8,1.4966629547095764,Protección,Arrecife de parche
+S12,ARE,19.2,1.8275666882497066,Protección,Arrecife de parche
+S12,CV,19.2,2.576819745345025,Protección,Arrecife de parche
+S12,ESP,8.2,0.48989794855663554,Protección,Arrecife de parche
+S12,MAC,9.8,1.1575836902790224,Protección,Arrecife de parche
+S12,TUR,32.8,1.5937377450509227,Protección,Arrecife de parche

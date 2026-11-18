@@ -1,0 +1,22 @@
+# Entorno de conda para el proyecto (solo canal conda-forge).
+# El canal R de Anaconda ("r" / defaults) no se mantiene desde nov. 2025;
+# conda-forge mantiene los paquetes de R de forma independiente.
+#
+# Crear:   conda env create -f environment.yml
+# Activar: conda activate arrecifes-r
+name: arrecifes-r
+channels:
+  - conda-forge
+dependencies:
+  - r-base>=4.3
+  - r-dplyr
+  - r-tidyr
+  - r-readr
+  - r-stringr
+  - r-ggplot2
+  - r-glmmtmb
+  - r-emmeans
+  - r-vegan
+  - r-dharma
+  - r-irkernel
+  - jupyterlab

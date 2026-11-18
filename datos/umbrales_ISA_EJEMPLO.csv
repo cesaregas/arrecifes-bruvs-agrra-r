@@ -1,0 +1,21 @@
+indicador,puntaje,categoria,min,max
+coral_vivo_pct,1,Crítico,0,5
+coral_vivo_pct,2,Pobre,5,10
+coral_vivo_pct,3,Regular,10,20
+coral_vivo_pct,4,Bueno,20,40
+coral_vivo_pct,5,Muy bueno,40,101
+macroalgas_pct,5,Muy bueno,0,1
+macroalgas_pct,4,Bueno,1,5
+macroalgas_pct,3,Regular,5,12
+macroalgas_pct,2,Pobre,12,25
+macroalgas_pct,1,Crítico,25,101
+herbivoros_g100m2,1,Crítico,0,960
+herbivoros_g100m2,2,Pobre,960,1860
+herbivoros_g100m2,3,Regular,1860,2740
+herbivoros_g100m2,4,Bueno,2740,3290
+herbivoros_g100m2,5,Muy bueno,3290,Inf
+comerciales_g100m2,1,Crítico,0,140
+comerciales_g100m2,2,Pobre,140,410
+comerciales_g100m2,3,Regular,410,1210
+comerciales_g100m2,4,Bueno,1210,1620
+comerciales_g100m2,5,Muy bueno,1620,Inf

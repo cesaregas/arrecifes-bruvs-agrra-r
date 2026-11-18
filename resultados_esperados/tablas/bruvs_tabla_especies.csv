@@ -1,0 +1,31 @@
+grupo,especie,zona,n_despliegues,FO_pct,maxn_media,maxn_ee
+Comercial,Epinephelus striatus,Protección,18,38.9,0.61,0.22
+Comercial,Epinephelus striatus,Uso pesquero,18,5.6,0.06,0.06
+Comercial,Lutjanus apodus,Protección,18,83.3,2.33,0.58
+Comercial,Lutjanus apodus,Uso pesquero,18,50,1.22,0.38
+Comercial,Lutjanus griseus,Protección,18,44.4,0.72,0.25
+Comercial,Lutjanus griseus,Uso pesquero,18,50,0.89,0.25
+Comercial,Mycteroperca bonaci,Protección,18,16.7,0.39,0.24
+Comercial,Mycteroperca bonaci,Uso pesquero,18,11.1,0.11,0.08
+Comercial,Ocyurus chrysurus,Protección,18,94.4,5.22,0.91
+Comercial,Ocyurus chrysurus,Uso pesquero,18,50,1.72,0.44
+Elasmobranquio,Aetobatus narinari,Protección,18,22.2,0.33,0.18
+Elasmobranquio,Aetobatus narinari,Uso pesquero,18,5.6,0.06,0.06
+Elasmobranquio,Carcharhinus perezi,Protección,18,38.9,0.61,0.28
+Elasmobranquio,Carcharhinus perezi,Uso pesquero,18,16.7,0.17,0.09
+Elasmobranquio,Ginglymostoma cirratum,Protección,18,44.4,0.89,0.29
+Elasmobranquio,Ginglymostoma cirratum,Uso pesquero,18,55.6,0.89,0.27
+Elasmobranquio,Hypanus americanus,Protección,18,5.6,0.06,0.06
+Elasmobranquio,Hypanus americanus,Uso pesquero,18,16.7,0.39,0.24
+Herbívoro,Acanthurus coeruleus,Protección,18,77.8,4,0.81
+Herbívoro,Acanthurus coeruleus,Uso pesquero,18,72.2,3.44,0.74
+Herbívoro,Sparisoma viride,Protección,18,61.1,3,0.89
+Herbívoro,Sparisoma viride,Uso pesquero,18,61.1,1.33,0.34
+Invasor,Pterois volitans,Protección,18,38.9,0.72,0.28
+Invasor,Pterois volitans,Uso pesquero,18,66.7,1.06,0.24
+Otro,Caranx ruber,Protección,18,83.3,4.61,1.55
+Otro,Caranx ruber,Uso pesquero,18,72.2,3.83,0.86
+Otro,Haemulon plumierii,Protección,18,77.8,4.33,1.41
+Otro,Haemulon plumierii,Uso pesquero,18,88.9,5.89,1.7
+Otro,Sphyraena barracuda,Protección,18,50,0.89,0.3
+Otro,Sphyraena barracuda,Uso pesquero,18,27.8,0.5,0.25

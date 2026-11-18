@@ -1,0 +1,12 @@
+especie,a,b,grupo_isa
+Sparisoma viride,0.015,3.05,Herbívoro
+Scarus iseri,0.015,3.05,Herbívoro
+Scarus taeniopterus,0.015,3.05,Herbívoro
+Acanthurus coeruleus,0.025,3,Herbívoro
+Acanthurus chirurgus,0.025,3,Herbívoro
+Lutjanus apodus,0.017,3,Comercial
+Ocyurus chrysurus,0.015,2.95,Comercial
+Epinephelus guttatus,0.012,3.05,Comercial
+Cephalopholis fulva,0.013,3.05,Comercial
+Haemulon flavolineatum,0.017,3,Otro
+Stegastes partitus,0.02,3,Otro
